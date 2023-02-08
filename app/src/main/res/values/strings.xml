@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Leaf App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="slogan">Let\'s Save\nThe\nPlanet</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Sign_In_With_Google">Sign In With Google</string>
+    <string name="name">Name</string>
+    <string name="cancel">cancel</string>
+    <string name="already_have_an_account">already have an account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_out">Log Out</string>
+    <string name="myphotos">My Plants</string>
+    <string name="disclamer">*The result is auto diagnosed, please make sure your plant problem is the same as the symptom described/ above before taking any action</string>
+    <string name="over_view">Overview</string>
+    <string name="treatmet">Treatmet</string>
+    <string name="cause">Cause</string>
+    <string name="symptom">Symptom</string>
+</resources>

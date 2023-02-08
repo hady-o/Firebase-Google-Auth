@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70260843729",
+    "project_id": "gosigntest-96fb2",
+    "storage_bucket": "gosigntest-96fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70260843729:android:c41e3502ccca8b429351f0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70260843729-6c78qk3ue49vsif1uj20n385505kad1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsHL7M_RPOZI8psNbc7wQzMJm0wGQxeF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70260843729-6c78qk3ue49vsif1uj20n385505kad1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
